@@ -37,8 +37,22 @@ We invite research papers at the intersection of SNR and ML on the following non
 - Unsupervised Learning for SNR (e.g., mining formal specifications from behaviors), and
 - Applications of SNR in safety-critical machine learning.     
 
-### Markdown
+The topic of the workshop has direct connections with the conferences within the CONFEST (e.g., FORMATS and CONCUR) and we believe that participants of the main conference may be interested in attending SNR and vice-versa. The workshop format is intended to complement the main conference by providing an informal meeting place specifically for researchers involved in the projects requiring the background both in symbolic and numerical verification.
 
+## Organizers
+
+
+## Previous Workshops
+- [7th Int. Workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT (SNR’21)](https://sites.google.com/view/snr21/), affiliated with QONFEST'21.
+- [6th Int. Workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT (SNR’20)](http://www.cs.cas.cz/snr2020/), affiliated with QONFEST'20.
+- [5th Int. Workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT (SNR’19)](http://snr19.ncl.ac.uk/index.html), affiliated with CPS-IoT Week 2019.
+- [4rd Int. Workshop on Symbolic and Numerical Methods for Reachability Analysis (SNR’18)](http://snr2018.verivital.com), affiliated with ETAPS'18.
+- [3rd Int. Workshop on Symbolic and Numerical Methods for Reachability Analysis (SNR’17)](https://snr2017.pages.ist.ac.at), affiliated with ETAPS'17.
+- [2nd Int. Workshop on Symbolic and Numerical Methods for Reachability Analysis (SNR’16)](https://snr2016.pages.ist.ac.at), affiliated with CPSWeek’16
+- [1st Int. Workshop on Symbolic and Numerical Methods for Reachability Analysis (SNR’15)](http://snrworkshop.github.io), affiliated with CAV’15
+ 
+ 
+ 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
