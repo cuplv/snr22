@@ -1,8 +1,3 @@
-# Symbolic and Numerical Methods for Reachability Analysis (SNR)
-
-
-## SNR'22
-
 Welcome to the home page of the 8th International Workshop on Symbolic-Numeric Methods for reachability Analysis (SNR). SNR'22 will collocate with [CONFEST'22](https://confest2022.mimuw.edu.pl) in Warsaw, Poland, on September, 12th 2022. 
 
 Hybrid systems are complex dynamical systems that combine discrete and continuous components. Reachability questions, regarding whether a system can run into a certain subset of its state space, stand at the core of verification and synthesis problems for hybrid systems. Successful reachability analysis methods for hybrid systems require the unification of techniques from at least two research areas:
