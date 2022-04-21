@@ -1,11 +1,41 @@
 # Symbolic and Numerical Methods for Reachability Analysis (SNR)
 
 
-## Welcome to GitHub Pages
+## SNR'22
 
-You can use the [editor on GitHub](https://github.com/cuplv/snr22/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the home page of the 8th International Workshop on Symbolic-Numeric Methods for reachability Analysis (SNR). SNR'22 will collocate with [CONFEST'22](https://confest2022.mimuw.edu.pl) in Warsaw, Poland, on September, 12th 2022. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hybrid systems are complex dynamical systems that combine discrete and continuous components. Reachability questions, regarding whether a system can run into a certain subset of its state space, stand at the core of verification and synthesis problems for hybrid systems. Successful reachability analysis methods for hybrid systems require the unification of techniques from at least two research areas:
+- _Symbolic methods_ that operate on exact and discrete representations of systems, in the form of various model checking and theorem proving algorithms.
+- _Numerical methods_ that operate on various forms of numerical approximations and continuous transformations of the systems, as developed in the area of continuous dynamical systems and control theory. 
+
+The existing, successful solutions for reachability analysis for hybrid dynamical systems cleverly integrate symbolic and numerical reasoning to tackle the scalability challenge. For instance, the reachable set computation methods explicitly construct flow-pipes that numerically overapproximate the reachable states over time, while efficient computation of such overapproximations requires symbolic representations such as support functions. Similarly, constraint solving methods symbolically encode reachability properties as logic formulas, while solving such formulas requires numerically-driven decision procedures. 
+The key goal of the **Symbolic and Numerical Methods for Reachability Analysis** (SNR) workshop is to provide a platform to further explore synergies among these approaches by bringing together the experts in these two domains.
+
+The SNR workshop aims to catalyze work on the interface of symbolic and numerical methods for the reachability analysis. The scope of the workshop includes, but is not restricted to, the following topics:
+- Verification of hybrid systems
+- Symbolic representation of regions in reachability analysis \item Techniques for Flow-pipe construction
+- Abstraction techniques for hybrid systems and numerical programs
+- Trajectory/Counterexample generation from symbolic paths
+- Techniques for reliable integration
+- Decision procedures supporting real numbers
+- Formal logics to reason about hybrid systems
+- Symbolic and Numerical Methods for Reinforcement Learning and Planning
+- Domain specific approaches in Biology, Robotics, and Cyber-Physical Systems
+
+This year, the organizers encourage submissions of papers exploring the intersection of SNR and Machine-Learning (ML).
+
+## SNR and Machine Learning.
+Machine Learning (ML) algorithms and data-driven components are at the core of modern engineering applications of hybrid dynamical systems providing support for perception and adaptation. Moreover, the recent successes of Deep Neural Networks (DNN) and Reinforcement Learning (RL) hint at powerful approaches to tackle scalability challenges in SNR. 
+     
+We invite research papers at the intersection of SNR and ML on the following non-exhaustive list of topics:      
+- Reinforcement Learning (RL) for Real-Time and Hybrid Systems,
+- Formal Logics for Continuous-State RL  (e.g., formal specifications in RL, shielding for RL),
+- Decision Procedures for Continuous-State RL (e.g. SAT/SMT approaches to infer reward machines),
+- Deep Neural networks for Symbolic and Numerical Reasoning for Reachability (e.g., neural certificates),
+- Supervised Learning for SNR (e.g., using decision-trees in generating human-interpretable policies),
+- Unsupervised Learning for SNR (e.g., mining formal specifications from behaviors), and
+- Applications of SNR in safety-critical machine learning.     
 
 ### Markdown
 
